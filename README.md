@@ -33,11 +33,12 @@ while True:
 ```
 ## OUPUT:
 client:
+<br>
 ![3bclient](https://github.com/Prasanavausdevan/3b_CHAT_USING_TCP_SOCKETS/assets/144870579/1c0d469d-5779-465a-904c-24a6e04c9963)
 
 
 server:
-
+<br>
 ![3bserver](https://github.com/Prasanavausdevan/3b_CHAT_USING_TCP_SOCKETS/assets/144870579/39b048b9-d353-4a6e-b84c-5322edc700af)T
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
